@@ -1,9 +1,3 @@
 job failed
-<<<<<<< HEAD
-=======
 job running
 job successed
-<<<<<<< HEAD
->>>>>>> 91966fb (third changes)
-=======
->>>>>>> 91966fb (third changes)
