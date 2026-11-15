@@ -1,1 +1,6 @@
 job failed
+<<<<<<< HEAD
+=======
+job running
+job successed
+>>>>>>> 91966fb (third changes)
